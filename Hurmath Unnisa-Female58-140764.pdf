@@ -1,0 +1,2000 @@
+%PDF-1.3
+1 0 obj
+<<
+/Kids [ 4 0 R ]
+/Type /Pages
+/Count 1
+>>
+endobj
+2 0 obj
+<<
+/Producer (Python PDF Library \055 http\072\057\057pybrary\056net\057pyPdf\057)
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/Parent 1 0 R
+/Resources <<
+/XObject <<
+/FormXob.64ebd147d9dc298abae49425e44d4d3b 6 0 R
+>>
+/Font <<
+/F2 7 0 R
+/F1 8 0 R
+>>
+/ProcSet [ /Text /ImageC /ImageB /PDF /ImageI ]
+>>
+/Trans <<
+>>
+/Rotate 0
+/MediaBox [ 0 0 595.27560 841.88980 ]
+/Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Length 14808
+>>
+stream
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.40000 TL
+ET
+q
+q
+1 0 0 1 40 690.88980 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 15.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(Client) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 61.80000 15.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(\072 ) Tj
+/F2 9 Tf
+(SHIVA LAB TO LAB) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(Patient Name) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 61.80000 0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(\072 ) Tj
+/F2 9 Tf
+(Mrs\056 HURMATH UNNISA) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40 628.88980 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 46.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(Age\057Gender) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 61.80000 46.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(\072 58 years \057 Female) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 0 31 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(Phone) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 61.80000 31 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(\072) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 0 15.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(Ref\056 Dr\056) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 61.80000 15.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(\072 SELF) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F2 9 Tf
+0 0 0 rg
+(Req\056 No) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 61.80000 0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F2 9 Tf
+0 0 0 rg
+(\072 240480026) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 309 0 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 46.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(Sample Type) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 72.10000 46.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(\072 Whole blood) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 0 31 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(Registered On) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 72.10000 31 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(\072 17 Feb 2024 12\07212 PM) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 0 15.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(Collected On) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 72.10000 15.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(\072 17 Feb 2024 12\07213 PM) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(Reported On) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 72.10000 0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(\072 17 Feb 2024 12\07232 PM) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40 627.88980 cm
+q
+1 w
+1 J
+0 0 0 RG
+n
+0 0 m
+515 0 l
+S
+Q
+Q
+q
+1 0 0 1 40 606.30980 cm
+q
+1 0 0 1 1 -1 cm
+q
+0.91125 w
+BT
+1 0 0 1 0 9.60104 Tm
+230.57190 0 Td
+14.58000 TL
+/F1 9.72000 Tf
+0 0 0 rg
+(Hematology) Tj
+T*
+-230.57190 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40 587.69130 cm
+q
+1 0 0 1 1 -1 cm
+q
+1.03866 w
+BT
+1 0 0 1 0 10.66378 Tm
+176.78660 0 Td
+16.61850 TL
+/F2 11.07900 Tf
+0 0 0 rg
+(Complete Blood Picture \050CBP\051) Tj
+T*
+-176.78660 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40 570.19130 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 0 -2 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 9.03800 Tm
+67.36850 0 Td
+13.50000 TL
+/F2 9 Tf
+0 0 0 rg
+(Test Name) Tj
+T*
+-67.36850 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 180.25000 0 cm
+q
+1 0 0 1 0 -2 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 9.03800 Tm
+14.98250 0 Td
+13.50000 TL
+/F2 9 Tf
+0 0 0 rg
+(Observed Values) Tj
+T*
+-14.98250 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 283.25000 0 cm
+q
+1 0 0 1 0 -2 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 9.03800 Tm
+27.37500 0 Td
+13.50000 TL
+/F2 9 Tf
+0 0 0 rg
+(Units) Tj
+T*
+-27.37500 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 360.50000 0 cm
+q
+1 0 0 1 0 -2 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 9.03800 Tm
+12.97650 0 Td
+13.50000 TL
+/F2 9 Tf
+0 0 0 rg
+(Biological Reference Intervals) Tj
+T*
+-12.97650 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+q
+2 J
+1 j
+0 0 0 RG
+0.80000 w
+n
+0 17.50000 m
+515 17.50000 l
+S
+n
+0 0 m
+0 17.50000 l
+S
+n
+515 0 m
+515 17.50000 l
+S
+n
+0 0 m
+515 0 l
+S
+n
+0 17.50000 m
+515 17.50000 l
+S
+n
+0 0 m
+0 17.50000 l
+S
+n
+515 0 m
+515 17.50000 l
+S
+n
+0 0 m
+515 0 l
+S
+n
+0 17.50000 m
+180.25000 17.50000 l
+S
+n
+0 0 m
+0 17.50000 l
+S
+n
+180.25000 0 m
+180.25000 17.50000 l
+S
+n
+0 0 m
+180.25000 0 l
+S
+n
+180.25000 17.50000 m
+283.25000 17.50000 l
+S
+n
+180.25000 0 m
+180.25000 17.50000 l
+S
+n
+283.25000 0 m
+283.25000 17.50000 l
+S
+n
+180.25000 0 m
+283.25000 0 l
+S
+n
+283.25000 17.50000 m
+360.50000 17.50000 l
+S
+n
+283.25000 0 m
+283.25000 17.50000 l
+S
+n
+360.50000 0 m
+360.50000 17.50000 l
+S
+n
+283.25000 0 m
+360.50000 0 l
+S
+n
+360.50000 17.50000 m
+515 17.50000 l
+S
+n
+360.50000 0 m
+360.50000 17.50000 l
+S
+n
+515 0 m
+515 17.50000 l
+S
+n
+360.50000 0 m
+515 0 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40 539.88980 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 11.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(Hemoglobin) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 0 -0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.65625 w
+BT
+1 0 0 1 5 6.47400 Tm
+10.50000 TL
+/F1 7 Tf
+0 0 0 rg
+(\050Method \072 Colorimetry\051) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 180.25000 11.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 20 8.03800 Tm
+13.50000 TL
+/F2 9 Tf
+0 0 0 rg
+(10\0565) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 283.25000 11.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(g\057dL) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 362.50000 11.50000 cm
+q
+1 0 0 1 2 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(12\0560 \055 15\0560) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40 512.88980 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 11.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(PCV\057HCT) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 0 -0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.65625 w
+BT
+1 0 0 1 5 6.47400 Tm
+10.50000 TL
+/F1 7 Tf
+0 0 0 rg
+(\050Method \072 Calculated\051) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 180.25000 11.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 20 8.03800 Tm
+13.50000 TL
+/F2 9 Tf
+0 0 0 rg
+(27\0562) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 283.25000 11.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(\045) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 362.50000 11.50000 cm
+q
+1 0 0 1 2 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(36\0560 \055 46\0560) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40 485.88980 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 11.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(Total RBC Count) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 0 -0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.65625 w
+BT
+1 0 0 1 5 6.47400 Tm
+10.50000 TL
+/F1 7 Tf
+0 0 0 rg
+(\050Method \072 Flow cytometry\051) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 180.25000 11.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 20 8.03800 Tm
+13.50000 TL
+/F2 9 Tf
+0 0 0 rg
+(3\05670) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 283.25000 11.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(mill\057cumm) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 362.50000 11.50000 cm
+q
+1 0 0 1 2 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(3\05680 \055 4\05680) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40 458.88980 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 11.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(Total WBC Count) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 0 -0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.65625 w
+BT
+1 0 0 1 5 6.47400 Tm
+10.50000 TL
+/F1 7 Tf
+0 0 0 rg
+(\050Method \072 Flow cytometry\051) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 180.25000 11.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 20 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(7\054200) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 283.25000 11.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(cells\057cumm) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 362.50000 11.50000 cm
+q
+1 0 0 1 2 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(4\054000 \226 10\054000) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40 431.88980 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 11.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(Platelet Count) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 0 -0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.65625 w
+BT
+1 0 0 1 5 6.47400 Tm
+10.50000 TL
+/F1 7 Tf
+0 0 0 rg
+(\050Method \072 Flow cytometry\051) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 180.25000 11.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 20 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(2\05638) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 283.25000 11.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(lakhs\057cumm) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 362.50000 11.50000 cm
+q
+1 0 0 1 2 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(1\05650 \226 4\05610) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40 412.38980 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 -0 cm
+q
+1 0 0 1 0 -3 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 10.03800 Tm
+13.50000 TL
+/F2 9 Tf
+0 0 0 rg
+(DIFFERENTIAL COUNT) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40 396.88980 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 -0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(Neutrophils) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 180.25000 -0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 20 8.03800 Tm
+13.50000 TL
+/F2 9 Tf
+0 0 0 rg
+(35) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 283.25000 -0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(\045) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 362.50000 -0 cm
+q
+1 0 0 1 2 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(40 \226 80) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40 381.38980 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 -0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(Lymphocytes) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 180.25000 -0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 20 8.03800 Tm
+13.50000 TL
+/F2 9 Tf
+0 0 0 rg
+(56) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 283.25000 -0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(\045) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 362.50000 -0 cm
+q
+1 0 0 1 2 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(20 \226 40) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40 365.88980 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 -0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(Eosinophils) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 180.25000 -0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 20 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(04) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 283.25000 -0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(\045) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 362.50000 -0 cm
+q
+1 0 0 1 2 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(1 \226 6) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40 350.38980 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 -0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(Monocytes) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 180.25000 -0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 20 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(05) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 283.25000 -0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(\045) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 362.50000 -0 cm
+q
+1 0 0 1 2 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(2 \055 10) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40 323.38980 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 11.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F2 9 Tf
+0 0 0 rg
+(Basophils) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 0 -0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.65625 w
+BT
+1 0 0 1 5 6.47400 Tm
+10.50000 TL
+/F1 7 Tf
+0 0 0 rg
+(\050Method \072 Peroxidase\057 Microscopy\051) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 180.25000 11.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 20 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(00) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 283.25000 11.50000 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(\045) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 362.50000 11.50000 cm
+q
+1 0 0 1 2 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(0 \055 2) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40 307.88980 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 0 -0 cm
+q
+1 0 0 1 0 -1 cm
+q
+0.84375 w
+0 0 0 RG
+n
+5 6.35050 m
+241.07900 6.35050 l
+S
+BT
+1 0 0 1 5 8.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(Method\072 Microscopy\054Fully Automated Hematology Analyser) Tj
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40 228.88980 cm
+q
+1 0 0 1 5.75000 -5.75000 cm
+q
+0.84375 w
+0.84375 w
+0.84375 w
+0.84375 w
+0.84375 w
+BT
+1 0 0 1 0 72.53800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+( ) Tj
+T*
+/F2 9 Tf
+(Reference \072) Tj
+( ) Tj
+/F1 9 Tf
+(Dacie and Lewis Practical Hematology\05410th Edition) Tj
+T*
+/F2 9 Tf
+(Note \072) Tj
+/F1 9 Tf
+( These results are generated by a fully automated hematology analyzer and the differential count is computed from a) Tj
+T*
+(total of several thousands of cells\056 Therefore the differential count appears in decimalised numbers and may not add upto) Tj
+T*
+(exactly 100\056 It may fall between 99 and 101\056) Tj
+T*
+ET
+Q
+Q
+q
+0.80000 0.80000 0.80000 RG
+0.75000 w
+n
+0 0 m
+0 79 l
+S
+0.80000 0.80000 0.80000 RG
+0.75000 w
+n
+515 0 m
+515 79 l
+S
+0.80000 0.80000 0.80000 RG
+0.75000 w
+n
+0 79 m
+515 79 l
+S
+0.80000 0.80000 0.80000 RG
+0.75000 w
+n
+0 0 m
+515 0 l
+S
+Q
+Q
+q
+1 0 0 1 40 213.38980 cm
+q
+1 0 0 1 1 -1 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 9.03800 Tm
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+T*
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40 187.88980 cm
+q
+1 0 0 1 1 -11 cm
+q
+0.84375 w
+BT
+1 0 0 1 0 19.03800 Tm
+212.49450 0 Td
+13.50000 TL
+/F1 9 Tf
+0 0 0 rg
+(\052\052END OF REPORT\052\052) Tj
+T*
+-212.49450 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40 117.51480 cm
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 257.50000 -0 cm
+q
+1 0 0 1 0 -3 cm
+q
+q
+257.50000 0 0 64.37500 0 3 cm
+/FormXob.64ebd147d9dc298abae49425e44d4d3b Do
+Q
+0.84375 w
+BT
+1 0 0 1 0 31.58750 Tm
+64.37500 TL
+257.50000 0 Td
+/F1 9 Tf
+10.80000 TL
+T*
+-257.50000 0 Td
+ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.40000 TL
+ET
+BT
+/F1 9 Tf
+14.40000 TL
+ET
+BT
+1 0 0 1 519 13 Tm
+(Page 1 of 1) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/Filter [ /ASCII85Decode /DCTDecode ]
+/Length 14080
+/ColorSpace /DeviceRGB
+/Type /XObject
+/BitsPerComponent 8
+/Height 200
+/Width 800
+/Subtype /Image
+>>
+stream
+s4IA0!"_al8O`[\!<<*#!!*'"s4[N@!!ic5#6k>;#6tJ?#m^kH'FbHY$Odmc'+Yct)BU"@)B9_>,VCGe+tOrY*%3`p/2/e81c-:%3B]>W4>&EH1B6)/6NIK"#n.1M(_$ok1*IV\1,:U?1,:U?1,:U?1,:U?1,:U?1,:U?1,:U?1,:U?1,:U?1,:U?1,:U?1,:U?1,AmF!"fJ:a9*Oe!?qLF&HMtG!WU(<*rl9A"T\W)!<E3$z!!!!"!WrQ/"pYD?$4HmP!4<@<!W`B*!X&T/"U"r.!!.KK!WrE*&Hrdj0gQ!W;.0\RE>10ZOeE%*6F"?A;UOtZ1LbBV#mqFa(`=5<-7:2j.Ps"@2`NfY6UX@47n?3D;cHat='/U/@q9._B4u!oF*)PJGBeCZK7nr5LPUeEP*;,qQC!u,R\HRQV5C/hWN*81['d?O\@K2f_o0O6a2lBFdaQ^rf%8R-g>V&OjQ5OekiqC&o(2MHp@n@XqZ"J6*ru?D!<E3%!<E3%!<<*"!!!!"!WrQ/"pYD?$4HmP!4<C=!W`?*"9Sc3"U"r.!<RHF!<N?8"9fr'"qj4!#@VTc+u4]T'LIqUZ,$_k1K*]W@WKj'(*k`q-1Mcg)&ahL-n-W'2E*TU3^Z;(7Rp!@8lJ\h<``C+>%;)SAnPdkC3+K>G'A1VH@gd&KnbA=M2II[Pa.Q$R$jD;USO``Vl6SpZEppG[^WcW]#)A'`Q#s>ai`&\eCE.%f\,!<j5f=akNM0qo(2MHp@n@XqZ#7L$j-M1!YGMH!'^JXqC&(g$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$H1Qo94Qr3dtR"MS,::nU@Q)ZOnoj8(^%HgRe(HV3])0FNM>(Hm22Hs[tAr)+#>@X)<Vria0c0`7ia\j2!W$KSuUMbL9.Q>E7[0F=$G(V.3Rh=NE`'rV\Q[+"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"`rNQe'e+cJla\"Z+dW[o-JgBM\O=Z8cJd05?d8dTCK_Qi#`RbY*X4arg>VD5=O"i9@S*TMMl7oEjno!9qX:3Wr;`>PBZp3[`8d%'h_'0C],$gnj'5L(@fP_F9RmBr98>u9$^&WY&t]ZKGM#D).ep':d#%/q[RpK"mksO7:>mt`B%@aFLTbAQ]b!`Q(i1P15%@EU%JO"IJn4kK;VlQFVI\<"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"Vag!"VaiSqJeb)74iK9%4&Q$*tZJ<HR7E6Y?jX:^JLVSa6/YHfrj7Tk("5Hl?4lHRUt?JEXB4dL#J7+lH3**L99NL'[f%h#:K#`p+-.CL;"au(+pBM+Y7uGAInc&VPr6)GgFBN9td#enFY^"U+qb9hMt7#GnG!3rMCs$%*A#&[>hW&TLac$ZLpfLM09'@1,kYWO8A'i9'#WJ'jTC91>>RQdX*LfFD8.B;WcJbm+n(uD5"_qbg(Z::fQM!'^]iroM62fU?Z&.Y_L0Wqc18[B5;iE<Qd'&)Xhi3,&RW:Hfl9_Y+*<)k-:k"g8::?_-nA7RR&PWUh<X>#!3g67iOtV617j%-)+N+\h[Pq=igimU)*1`c>tMYj)Z#$hT7o74TMUOD'?B[ib5&cH\W5-5ipWH9V6a5U[Xu0$R1n2Q?]OkBdSreNCI'@J,oL_O2(5:gMS=dr#o_O\YpVoj[\!<!Vq3BhfZO/e]IVXj/jFc9T!$9]Jj9YLo-L0`*0:MVH!XJ/FC<nDK:$ZIWm&Icjk<'NHc-;l6rBW$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!)U5Z]l[bL%aJGV]$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$7MX!$;?La1L+jWIO"'J%;;KIBl:-:30)/9%4=:HA<!X]13rKs#(ScfoFjoPbJ9-<Pd5m@\rU?'1AHl3r-8g.)btl4CDONdYp^hHiC]?S5id=Gl>_jV!Klm&?T&u?VVHHG-,3.Mr8GDn/%>en?\[h,^PijU+7W67*#%,/AH)Wj^O,!f)c%:(kXul9AWT8:b'h>XAS-rYlHBk>Ql`Ut^oudJ']/V3<q+A9OG/F_W2)?r73m[^.PhQ(0[_=4UfV(2'FlY=r-,'Hhi.I]ne/CVm2JU8FsA9:ggRL71;Mr8"a%=/Lm)/WSE[:0g0?kS(ZJ5V=TRSQ1%QgRkKXTSoqhmE>Jh9HlaK&$nD2p6[]+6R`B6)AZeO8Pqk\n+b/8eBSd$oJ7H'ZB)pLTDnI=-`\[5YaD$4H47@-"Ilse2aUOZLWl4an8]!erCk`u[)WSL']DM'7236CM$FY2e^-F#.F58*;OgpO#H\fJ=T>2<onaZFV*gO_?R]C.q(#$-g)R[14VBXT8R;S@h5g^KO?p4N"`;sZ$'?P3's`"GDn)q!WRdpsqX[.QaNA]Y?Y"X22XK$:e%I+<:.n25oRnnPZ)c)^.s18b'Cmish?b>5_gno1YVELopOKbtL)b2;t8f3Z%Kj2>"Tl@CWed>sW/Muia-6`K8Dfs08B93Y&94':n;D:78H^f61K$E+1p!8mlYBV5JBZr''l'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!'N%+!1pA!7E\gk0mFBIILT"K]6F0ueDXR^E#nJ.WZ$7D^fH"Z,b4tu:i[q']e*Ju.p>(%;c*`EX-_:FK4)r`KrC1.EIN(27E16NW<(X-.0,/7GPKGF1cL'$?4jQF@<nE$(*nb3cK3Gs6076'*)>e"#NOUdLgtN#eUHB$V$LGPl][blm+;,QdRP<,M\-/c\F+Ol-qLT"N/!I:oC-NF*4,%9TVJ39fT9Ol39]f@nmWPZZNgZr>*1Fan_T,MVQ4$9[\@lTh?kjGK?:%ba?k)"TV!t%a]nZF&2UKVhp:\S;1FZ5LTFjZ/&Wj*!LEH!7TK-p#lX/;UIu*8"4k?<Ti_.q*m1eqD9"55$oMLG8=Q]Z*]dh"YLJu*>$du0=EH?O(eW&,@_jm-4*pPNK%L7#>p?US;pe/Enkaj*PFe(kXAs2HMG-aSH[MYij0sX$XbWmPY&9EJ]MrHA(ASZ3mVHURflHcK`]'8qZWL8@^Z5ehb6.gHB)93qj"0L-Q8XE);lYC&-BZ!R<i2.Utj*'iOj/mC_`&AUCR1rs9diMU:;\W=)8+q:F@=eT8E#MH\i%"+W2[W22%VkjsV]MhsalDsNE@%cMC3Nn!HPmZ]hRMSNJ-[D1CU->8J,t0]%n]*.>&T#ZXgJH->tSi(?!1.*]=`";?@)E\5$5jDP\15aE_5N9:6`+^!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!C[]!!D/^d!+_U/Ye3]i!MJ/bd9=_AIrulccH[)XRTpIhDMk1lQ95.3!Wf-IW*3o$Eo(/.`GKH)mZL^WC8gC=5CfmI;Xpa;F<*tX57_Kf)@G60]"aOsD4#9dZiRmR+`^YWpBRjuJ`1D/DrK=G;fjZMJWgc['D?2mj+u=!@m<!:Ot(r"C<9ms@AfL@B%:g0[ZWQLO0dn(m)/^p+Se1,63<hLpPnOAKN9-L[[oJRN*khCS>bWm7<,j7mAk[Rf!TkL='*fB[+!b#:CoOQ:M01M8/R%1gkHbg7X?ih1aMT$Z/Wb]h@WPhl.O"Dh8EYL"1/Z4^Ye36?9$5!Fdcp1A#%\oARTEr[CekAU'uL"VlA!idfYW<n0XoOW\S@Y_Hgge?-@;)VF;9NEmg?i9QTg*Q8hQJVktuUBbK8,Go:+K#$KW`'G"-rZ2@&MSNk"mX"E't/CLuJ/T&sadl4#"jR<K%9#\()[F^4W$\&_4[PH=OI*4Yt+N%_ODT<A]^a6T+J2e6nNdXu+n[,T)pgWo5FCfA?moMhDYK74o^.2FXb?dY6)'ICG4=@"><ur-^dc!`Qed]R'84uN9/[Xlgb^!Yhr%^<7G,quh1%_P!8'@CARO,V&$'*a-mP`DIFYLl9!2.Qc!RM=@["G2,!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:!!#/:$BEOmsGDRO5cBIss"'o3T_CJ8=RhAuKg]Us_jFD2*`Dl?!L8WKfCAQK&][q&MpX:p0/^U'F6pm]gV]@tk)*NN5m<h^(CHAlTMmZcFXn8_1Up\[?EO<*?#&+(u\`"9HoCr%@<kX6cYB[J:2V,1tg)J%44/q8pG:R<\N>j'!mL'(l>R][I1d"(`bC(R'Z*];`93dinhbAhjZ8qSeJ(:D#9/dqk`GqITddMR'I<4E:'/>XSBl.th#c&g'@EDXY)8q*I_8sN2k]dKCW;'Rlcoa<PQ_ZFll8n"jCG#1N]XXGXAl^RG]Hd#MF9%?OfP-WeqG*;iVqS+SHYA]nPkEb*"$`%i!G32/L(oM%8C7Xl6l5n6!!CZZc"k;m=1Y2r%tn=ph+`?$mi*V)a4JODpRfh<I^RDbT+LofiiQC4,J[JnPM3ru>j?,l%-.NP]B':L$qSY[]m;&\1cTkIiTj3%.n`NYN\Db`<?VbE3GqVQjRYgA"<&qID)B7mp?2B==WmP:S\jMj-gq5aI'h1=)W=/8)X%Du"YCi(iPWbj`o^,S(p3^!K,JPASoN%=84!%Ym>8Zp`Gkep:U^0pnV3t'7aXIQCa#?O&k^3Y<;+.McdNno!-]Za/Kj:N5Qr=WC0E"d#>SuHU4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S!U4<S"1,DBg!%g'_5p,/cjEf8$#:ZQu4n-a^X\Z"Oku%Df<bXM698M5jSVhYsT&U$dE&N^ek>G4t-]VjBL.PtH2oQY,P.GjlUY#jt-G,ZO4S1][,SANApT&B$=$@k[DR<+Q[TV=L>shPMccX1Xcps%BjZs'db^&HC<^!X=]MWMA]oB_MKoM+pWm,fPrN,R<XW_bVW22D-^tZIH%-JKCghBqdQAMM*VePkHDef^I6sdpE-b2B34HabQ!l_:C2O<S:Zk:+]$nQBH<Di)f'kC2PJsS:o;+[;<#H]QX7cYuQHZPY7rY4AX_\\cQWXnJk;XWm,o=,Z@J+d,K@B&!UH)=m%>?j%mo0V[]iHKQ@<.NWiJocg%_tlc)#D_sM-5PC&E$RNRj)G/)Z0G([j$4MMV(F#`IHbf<"VajF:]f$9O9TE4!2>?!!2>?EO'2Ne.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5!.&)5A?R=d!dOg.!_fBb&8`;FtjC]q[8`M&a%`Z.c5kq>=9k309r#sZ(kSEn#EBUt$&_bJRL5B0*""NAZKQS;Nh!=)E#(ObA>^tC-;Z?aDAtTZ/nR%:R=7H(S$f;LuBj.*Z4JLYL2!'(0j'i$7UUpWDP5lYIN3`(=c\=PTVKfR;LK2d#o,s7YASrP:*Dsjh)'>4j+G+[K,M:c.r&O9]2_k,a\pUgbOtcF*F?Fk)K8uI'MgiuU`hG>MCI5Iu1kJpVG9<9TlQ"'gJV*:ikC:b'SZ4G"5T`R.)DWh\1uF8Gl?l6g_cj1NSLpX=ZWV4R[rn!N'XG^m1o40XKc`%bh8p[QWpifEHq1@7o>Eg5f!JOrA(*26CN1[7%tmtr+#`dRQ*@e+:-%57d]&034a<f.j,u2nTFW.>U[\T.rr<RP$U5nMQZcHi<eGh-b9VE?b-iV4iRd3/aj0qsH>Pk3a',s+/9Q:Irr<OuS'+oOA%&nrk!`S@XAldT:B6u0np:`8YM*XgAUjT(rrCb1h"Yg.rY!Vm*U#ui`*.1=[[Cln_NTg&<q=d3o$]1PHB#R[m6DEc*rK/r`L<90)Q&u"B"JC/R2[j5,::e&!tabnhKE;b.6EP!H>;UF4_s5QKt\>S28>!rq!RTET2*i]QKI`[1_8H2J\nQ\-$IF+n>%)#Fm8NJn=X_`K`F0EcPlSYcbZ1k\^mq5bN7\,[oibhnhJ"[-h/Q%_M1$0Y)^0`j$/7d]M[T),1C%bCV)Z]]3BO3F%cRFAK:Bsjg`DoE!B#:>4C+<j)5KBE9i]?LLgqPn*P5jJk6uU5;EJ28VLas`,1Hc[lI;MKY1eZM7)/L::\fNdjENf[nDX+N#,XSbq9)#LQ?2D<l!!PkXB`OJj)!V*XbO2*Ho:mb8WqA9"?BnC]aZ9k2:poJ49P%NPGNEg\a-SV>-Y1o>Q.n]=3[`;i1i-1I8]aG`-PmC<B5>AD?kT"=#GH"0i)k[#?b94<!b9Kc_&;h]6s9lV#apFP(#ZamK77`p1NqU4@:IN&fq_;!MC&4B&$Q=17U8`-OSb07.JQ-,au4`l2N[ahT[?#S2so57.BS-2^[27tCM8RU*L<pMiuH/n8TIA6)-3FUC[+k!(M*5(^JH?ifM!1&fQ_HpOtA+7]c"op/eR*ut2Gn[F/ea&enNRX?#1e!M$kmX33ZK#DP;3tSt3NP8du%SoAU*kOmeY!NX@Bi"6`58r<qNl9\/,Y5ap=Z:.ON.oC2PQucsV_uRjnJfFXnFunqkUc@JdX:]m:4G.!0_p;I5&_Z4Qd,i&J>=0J0L.\&M)tX>iGT$.CYDaR6s9`b+hE6^c/.Z:CFkCQ)i<d"a%E9!VoG0dNk@#dWbRXL75S)JDQ@TTW`10#IV(_(NH;fnnQi&P5A.)k>-gR<S)gBL(C\[3/gCNp56<Wm5uW?)<H!Ch[eapZm:-(c:G15Lrct?(Bff1#M4!4AGR(-'!UTUa]fS+4<^.9U:DJ+m`#@fnf1r^l+uG?lW*@@3/3kut%#F2K=]N722ApdV0I(AlJ&HEu$W"GlC#[S7a3#(^I)dT'E6I$WXn&"BO-o*\%n!(QFJYW3MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,!MC>,#-_+e_@IS45SH[(4Klo'I#&=!4rn:Sg=WrOjHT,bMGQJ[f5r]@U]]0uaeCU;VT*;TM+'i/ib?ifP;HA#=9Tm:<1H6P7h[p!^c.$s1%=a93bW7,hD/*d<DJii?EQ6FC0%0Zi0*`dhB?-a=W:QY7gVU9a*hhS_JKcYgp,c87!Rrf;)j/4sWh>!o3$X=QCX7aH?EpV9l@'nje@!o89s@!2nZ4I9_7+6;&/3%nF-49D"!(TKUj@7;XRg'C`T9F'd79?Xi+u9uNP&X18$r>EfAQ,n3Qn"hr[,4;:\SJ)VC%lb>Bt*=-&sB_6Lm\6'bN^Q,b=uQlX"pNn8h7Or(u5p[F]Q2olcWmg>dUlbK(M\g0ra]k3^-3\(2+*3do84gh'bpR$nnfaW$@n$o0g\#94W^bOFDIoH+lR>Yh&.1#=4gKTlUMAL(et=9F3$%Pbfl280S9aS7.Ap5e,^HcWRk\s;^:>%qlM%**7/W5&B6\W9FTh08pBB6JP!;utpL[(frVJ(rTSdB-1Yr'+O)r#G5!rKJ^QSNf]TOu?FqUn/_8/I9BBPKNBDCk7Saf2L\TK_fnP0@K;lf(I.4Xhkp<=B7C\SDcu'oGKYK;3GlKU[ZTa^Yp!XUXPpe[4CQFPu7e"B\^J"4=_m1,Fi/*J,gE#!Th&trZZi*>/fFu8:bo!'/c$C0Da>;c^45CmSJ/_r!UkfkL6THD;iYk'>re@SR)TpH+*(K@!]7RWGHELEPdkFgpm6u\XdBk^P?s8'@3l\[oKZFQ;sFQ#$BkaO9+sVa@L-,g!4dSHe$13;5)ci^=1%;f340rWG^rN4L.GW1l:rIPn@t7";kF;lkp$[O:Lc%XukVRMa-/0\'[&N>A]nAU0CrDrr=TR3APg^r1kk5akMjKfIh,!=Pb7kcC*[:lseM<1Y^U=/_\'e8KCfq#9Un!0f\W^GfV!EShp.QiU7[gbkG/;D5oXh02R@B+D`G0^qc$3TOGHC!kHR$=295G;:7WRG_\tTSaGe2jL;^6M\oW.PuUUR'?$A]K8nOP?HG-Z6+2s.:Y,30.aD$BD65+CWb7BSaGeLH0ET8:X+@V[ahOKnG=qAER_!Br@^_T&k!Fr.M_XM9M'\3KaZKPa!C._hrm$#a;"+DalkLoINJaJ#?,SZD[+l/pZ-%]#YX6FIJ7T<C%QfCJ&_M[cf<m8aSfbZ9*1Hi&k-(TG&i7W"C%lr\OinMZ=\2M8&3qCYfN!3G#P_P>d-DG`)O?jT%26PuUW;K7d=homGhA4F$qh4)aZX;>bC=3Oq'^Q7rrAusJ,2',n,EB$n+e?>+8-G1rr>J\>2CM!2l6;Q:eUb&>h8?2@u*IS)W!S!/9-As%]jsMXj7f.$Id#+4cYr2C0HFJeV&XM0e5s@?(p'?lcX7?&")n9!$3_n=^9d3bC1P%)#$O7Ia_'HJCoTZcl=+A1T9?*I0F`m!!m[R%/A$)\C7XqgMlklZr`QK;Oo!lF!<Q-P&1TJk@i$`G6HNnphR^3IMgGh6]10kqb/K\QIj:nW[ei;^FB<$Mk'2_T_s(p45cH\FF@Q^)IB?$$R3i]L>)OJ<fF7m&S4f93!8V^Nk+;&1H^#ZG^i$S-/r\n%GR7%;X,nl#Bq5.RMC3+'>#2MS.YoS"3;[equj[Ae%QU`2qN(qG.-+Xe'.\\$B#<\S,nh($,G]:$cLm1[.-&)\eEoU=D<=$)VW;B7:fAn(G-R@$;b5M4nDW82=T?nnA^T=UKcVj='A>h8@.#T]R*blKkB+rXq&tampiO=_4V;sd_%o<2"9C_QUnK=6La]<@4[Q*p/^Jeh)iR0?=mN2o!>_YS_I8XN&#k,+7h=%rgc+M!8D8UZnI$F(sr96(nXg@Zb2+54e:-LmUYs%<)q*o:==UU3>c-0d-tDZh%RTuP?hn3>-,#&[rTf<G&S:=L_X:c+1r(EN)0b"3`=B9SLJ4PU5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?"1+3983N>-2PkWNU<r/*3K*Mfq[TJrbF7PG;36+&DSiYI@n>F7:LP^CC/\\YdCNb/2cIcL\__QMAampiWP\b1S,Ap:(J3=,]QeJ2p,EK^SbJMuqZf>s>pms@omr[A@cg7r>7;EpUDh_B;/$Y6QDk05/%kGC"V#Yh%BefoRY;ah_?e#!piiNi3(@$fpV#?LuFLSRdhJ>X8IUL"QEI]QH:pKPnPFJ*^<eFV8D),7/Yf@HZ#3*KK@T61Knu*%o"4#lRJ3,5SMTbMO^L?,O&)$80CHG_TW@?s^ekufT;E[;KIN2shiXKK?%ng](#pmNkYZ]_fJITlAnJk.s6H?i+1/@ns#.?e[4Ah5GeW,Ee^6g!?nK$=udl;WLYXl]0O.-^#Os;Tq]C-?F[Z%Wp;9S_Gpli\S%rAYA]O.U'Irr"#fkY817Tg`CmIG9fapB#AHP&LaSXM'jn<]!8okdW6d5>]Aimfl"eKpLn[OL4"F$h.2bZ'iF.S7X+o<`YUM?#'G4mNLT&pl'TC&\/=`"F?)M.H@))d)5&)DI&d*EY<bEW@),^t1S^5+ui`_L4UB>5%+$9`_EJhIf\*:2WCKWeq#]@rl4deVsQT%2@@V4*sld:]Z]KB:<#'I;^^nXH:8B24TYcZbR-`o951!bK_i`29Gb?^Ur"0([1U;pN,0Gali,]Gmo_cSj5'OPJ@:iTFTh99T!*%!C\>(-opNW#&,gt>-!'ep=i^moB3SmL.S%TY)EiX"46TD";&HnJdDYm_g7mEh,!#.G37@MDUATf,YbZ&>8)\"foMBc"^+=rL3bW%#>[cGH;gaBU5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?!U5C?"%r1Y*:PLtni(kAd`P&^FBr>_&p6).eIcpHGODq82[ppNfofYoA8gkF]]1Z@rMiGo$EmQ4>*d9/Q8^9<9I_Ca`L\+gCn8s*unHFo7[>Rh@_2Y;HP'Q79f_Na);^9YQan4WqIhR=M`7k!+H2c8%p9*&T9tkhLhV=646Ou7tqkgTF-3!rkGN(:S_a!c\<UU+d>?11,M)&CD_l;p:'&-VN:E]nS+bUFc!QI&Q/V8G!AV,lgdWA8$BjNF^(:l@$&mt$eZ[Us3:0$k4R*'jGZ^odpH3sX7-3!rkGN("K_a!c\=*iQ&%nY/2?_r"Z`*2p/IYfN)50`tcm5^NTnma-C^<Uq83TqsDYG1g(`:-L!hVW&$/se$nXs:1UmV@X5E0WQ-'c&K&W!"=bo:El%T>Iegg%_H44MA/[M!nrbSU!f%,sZQiN%u?7`^-SO@5CLF-bqcZTd6t1ipu?nGh%A.-kDXAN.S[`*onB8@sWPMlUC<AdsN<SVV=maMO(MQL[kH$o5<<K,`Ti-96,C1B9"NRL>t_m7D*RUd&rgaR3jNV=h6@n'i9?k$\oc%:,AHB!S@k^)6Y=\;a6-Qi@^Fb:7\/kCq0$`]>'V%D`UWs22(H<Y^T)^SinRgo($'I$_7n\)t,U6WLiUu)b*:a/#l14f]*)SkLZ7!F.d<_'Ca84JZ2#71`!&;gT,,!G'7RmJ5F1o(j"!_e#,;.8IpN)ZLk=6?X7Gr<j/RBm<,HZq$Cr>)-G$.mu_*djgQ4?[nLb-2\oS$GT0TNor[-*Xu._&/%p2]I?\Iq./i@l>_eQX(/<mnF3&dFf;A>T_eJ-1!"*)s<tda.h4OgO^g`8(*DR,B\OK(,)<o__D\Vtfa*o>=d9k,emBuAOIg,S3\p'0++q=/4^`c9cH$`,uc^9#T"ZcK>Tj<%jQJ1Lje"qY'%\'G-P1:FV@rm8G"EO8bjuh,cI44C\!$0M@YOARQ*ZIZr2KO.=lF2&k>ReiR^=!r?B!lbg$M]lKEMrSi6e$5B(hp%J?(Fk?0<e%gb+^J]SFc=LJ._7e>PNE\d/6In`)9+':MQ>3d[?oED`Q0=]ZrjZ(O7#t?tZ62#%rZIH[c7t>J0IfM^7e*[otK89p<Y/8EUWl[jc-UPoT@9SpDe#4<LEaT+JXZFoMFQg&D%c8ZKsQdDL5.C=u&sUKHJ7*ad'jQV\Q\bYE/;&*tq]rrBp_rr@_B>%rIqrm1SffIs&lI(qbeo5WjOG!CU=cgfN]?\c%M$&dPT#qW9egT.6`L=YeOm=*$h"f%$XD@Clt6A8.HrShht.<l2FFR<k^rXijNHVG,t>05i79Qp"SoS8s",Jd3qM'.h/!F3*gFo.4-rlhW_(91*Q0hehb8'(.@a<-L0g08_+k8:BhdkiTR'&Q[&NNI=tG>Yj`cSV]r8D!nS&/A=c;%R[Vo9)jt@p"0nn1Eb"_e8IGLuGY&gWG[&4f$(aqq^&9f8KiD/>Z.eaNk]r$_!F"4U1dR=A3abC;POpen'#O`LTt]RAC$JO@VH)g[_9C!&;Q!pmUrqH9]<<6WSIG8(?rRZdg:%q/3>n]Psp)!0h\/,r)`r2F&#3_dVRUI3L6a47,&"4)k8OjCoZE6K?9Jlj.7aWK`!`@R#ITcP#G#(=Dne_>Y1=9:,!b4LZ5(V\!Mo+:GPP3)Bq[i<0-EB78G.#lkk>kC[l44t>d-?C)B"eiLdP_:J875'MSoM'FMi\jfb9ZS>e/a,["&-\_2N*s2@PeTAW=*-V<(\,/pgE$PA_<`HCuDR_qGF_h/1W?-(NWsG:]n90k:Ga_]bD=l".CWi2a3]Z/5'j!&tN!CiB"G>IX'tNib6iPli[$Y[uVpk=6W$HO&QJX6umK_#VL'V-4A7>Wniu3tD5UZ&=LSk$R;Xnn;KFqI)P53KrWR'8eTa:;^2YkV53KOHe9[uoMbk?N&4;?-GM=9j#XfbmO?.)3@Z76X0E#`D0h"E*Y]t=p1gIH1#'QCl$"HGIk.\_q'!,qo?JR!fD^*EE>*i0NRghGUd\!kiY8K2t_9=N,=",70p:ik")7jK+**LcU@C"1]1UHN>@!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)Z0!!)j^SOp)Or#(E&9g1_UE<XJJH8&8ChPUnOCc:hsXah*-ij!,ZN/6bYeU5AqS.&)5!.&)5!.&)5!.&)5!ja:"b9f'aIQC%0gH`-.PS!G#l3aX4QKFgtg%ThdTH^k\6"JUDhd_6c)C%m`qhWgQl[j2V4p?Sd:[-7^N#S*iNQMJ+R8AHGTXmHqAMkh1!`iZ9+`n7cRhbokRBM2th#ZWFo'"Mku<03mW^m%Y"`U0;PD-GiBSct;YhVIlhh!tPi>`LQn_`7i>&Jg_0=_O7/)K)$ZQI^6C&icX+!Vl=5jH=d6jO$Br?QCS/U4<S!U4>K.f`~>
+endstream
+endobj
+7 0 obj
+<<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F2
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+>>
+endobj
+8 0 obj
+<<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000068 00000 n 
+0000000169 00000 n 
+0000000218 00000 n 
+0000000502 00000 n 
+0000015363 00000 n 
+0000029631 00000 n 
+0000029743 00000 n 
+trailer
+<<
+/Size 9
+/Root 3 0 R
+/Info 2 0 R
+>>
+startxref
+29850
+%%EOF
